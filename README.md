@@ -1,5 +1,7 @@
 # BTCWallet
 Projeto de Criar uma Carteira de Criptomoeda para Bitcoin
+
+### Instale [Node.js](https://nodejs.org/pt)
 ### Abra o Terminal no VS Code
 
 | Passos | Descrição | Comandos |
@@ -8,3 +10,17 @@ Projeto de Criar uma Carteira de Criptomoeda para Bitcoin
 | 2 | Iniciar | npm init -y |
 | 2 | Instalar recursos | npm install bit39 bit32@2.0.6 bitcoin-lib --save
 | 3 | Criar Pasta src e arquivo createwallet.js | [createwallet.js](https://github.com/AllanNunes2211/BTCWallet/blob/main/createwallet.js) |
+| 4 | Crie um endereço de carteira bitcoin do testnet | node .\createwallet.js |
+
+Após executar o comando aparecerá as seguintes linhas de código:
+
+```
+Carteira gerada
+Endereço:  tb1q7hlvz8gtttgx9zrgnzf9hzmc8ysag8x99x28cc
+Chave privada:  cRNEo5uRoMyqZRHGwRViTTYMkeQv6CbNadcowhpn4qbFRhgjPxXc
+Seed depend addict smart flag repeat thank bicycle raise combine again inch also
+```
+
+### Instale [Electrum](https://electrum.org/#download)
+
+### Abra o site [Testnet](https://bitcoinfaucet.uo1.net/send.php) para verificar a validade do Endereço Gerado
