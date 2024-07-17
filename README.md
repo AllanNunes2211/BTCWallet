@@ -1,6 +1,6 @@
 # BTCWallet
 Projeto de Criar uma Carteira de Criptomoeda para Bitcoin
-Abra o Terminal no VS Code
+### Abra o Terminal no VS Code
 
 | Passos | Descrição | Comandos |
 | --- | --- | --- |
