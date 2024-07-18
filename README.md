@@ -23,4 +23,9 @@ Seed depend addict smart flag repeat thank bicycle raise combine again inch also
 
 ### Instale [Electrum](https://electrum.org/#download)
 
+- Após a instalação, clique com o botão direito no atalho e entre no menu "propriedades".
+
+- Adicione --testenet ao final do campo "Destino" ![Destino](SS-Electrum/Electrum-propriedades--testnet.png)
+- Crie uma nova carteira na opção **importar endereços Bitcoin ou chaves privadas** ![Chave]()
+
 ### Abra o site [Testnet](https://bitcoinfaucet.uo1.net/send.php) para verificar a validade do Endereço Gerado
