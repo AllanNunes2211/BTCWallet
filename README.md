@@ -12,7 +12,7 @@ Projeto de Criar uma Carteira de Criptomoeda para Bitcoin
 | 3 | Criar Pasta src e arquivo createwallet.js | [createwallet.js](https://github.com/AllanNunes2211/BTCWallet/blob/main/createwallet.js) |
 | 4 | Crie um endereço de carteira bitcoin do testnet | node .\createwallet.js |
 
-Após executar o comando aparecerá as seguintes linhas de código:
+Após executar o comando do passo 4 aparecerá as seguintes linhas de código:
 
 ```
 Carteira gerada
