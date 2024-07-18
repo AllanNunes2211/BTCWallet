@@ -37,4 +37,12 @@ Seed depend addict smart flag repeat thank bicycle raise combine again inch also
 
 ### Abra o site [Testnet](https://bitcoinfaucet.uo1.net/send.php) para verificar a validade do Endereço Gerado
 
+- Insira a **Chave Pública** e envie bitcoins para a carteira
+![Testnet](TestNet/ChavePública.png)
+
+### Abra o site [BlockStream Explorer](https://blockstream.info/testnet/)
+- Coloque a chave pública e verifique a transação
+- ![Teste1](TestNet/Test1.png)
+- ![Teste2](TestNet/Test2.png)
+
 
