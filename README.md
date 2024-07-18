@@ -10,7 +10,7 @@ Projeto de Criar uma Carteira de Criptomoeda para Bitcoin
 | 2 | Iniciar | npm init -y |
 | 2 | Instalar recursos | npm install bit39 bit32@2.0.6 bitcoin-lib --save
 | 3 | Criar Pasta src e arquivo createwallet.js | [createwallet.js](https://github.com/AllanNunes2211/BTCWallet/blob/main/createwallet.js) |
-| 4 | Crie um endereço de carteira bitcoin do testnet | node .\createwallet.js |
+| 4 | Crie um endereço de carteira bitcoin do testnet executando o arquivo | node .\createwallet.js |
 
 Após executar o comando do passo 4 aparecerá as seguintes linhas de código:
 
